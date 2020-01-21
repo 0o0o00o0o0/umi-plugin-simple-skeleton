@@ -1,0 +1,11 @@
+{
+  "name": "umi-plugin-simple-skeleton",
+  "version": "1.0.0",
+  "description": "用于简单的首页骨架屏",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruansanfeng",
+  "license": "ISC"
+}
